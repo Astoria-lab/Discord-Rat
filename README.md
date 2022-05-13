@@ -34,7 +34,7 @@ Please don't upload this virus to VirusTotal
 
 
 ## Discord Rat Panel
-![image](https://user-images.githubusercontent.com/103535806/163634875-71192f29-7eab-42ed-bc9c-32e10c2621e5.png)
+![image](https://user-images.githubusercontent.com/103535806/168352453-95baa395-6ce2-47f1-a2d5-b1c691abcfb6.png)
 
 
 
