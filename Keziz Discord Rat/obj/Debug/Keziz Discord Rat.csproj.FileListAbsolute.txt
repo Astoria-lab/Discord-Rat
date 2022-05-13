@@ -1,0 +1,38 @@
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Cake.Powershell.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Discord.Net.Commands.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Discord.Net.Core.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Discord.Net.Rest.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\System.Interactive.Async.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\System.Linq.Async.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\System.Management.Automation.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Cake.Powershell.pdb
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Cake.Powershell.xml
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Discord.Net.Commands.xml
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Discord.Net.Core.xml
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Discord.Net.Rest.xml
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\System.Interactive.Async.xml
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\System.Linq.Async.xml
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\obj\Debug\Keziz Discord Rat.csproj.AssemblyReference.cache
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\obj\Debug\Keziz Discord Rat.csproj.CoreCompileInputs.cache
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\obj\Debug\Keziz Discord Rat.csproj.CopyComplete
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Keziz Discord Rat.exe.config
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Keziz Discord Rat.exe
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\bin\Debug\Keziz Discord Rat.pdb
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\obj\Debug\Keziz Discord Rat.exe
+C:\Users\ACER_PC\source\repos\Keziz Discord Rat\Keziz Discord Rat\obj\Debug\Keziz Discord Rat.pdb
